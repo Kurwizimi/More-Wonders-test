@@ -80,6 +80,7 @@ Classical
   Modern
 
   - bridge by Chris McDonnell from <a href="https://thenounproject.com/browse/icons/term/bridge/" target="_blank" title="bridge Icons">Noun Project</a> (CC BY 3.0)
+  - khewra salt mine by Vectors Point from <a href="https://thenounproject.com/browse/icons/term/khewra-salt-mine/" target="_blank" title="khewra salt mine Icons">Noun Project</a> (CC BY 3.0)
   - steam train by Abu Ibrahim Icon from <a href="https://thenounproject.com/browse/icons/term/steam-train/" target="_blank" title="steam train Icons">Noun Project</a> (CC BY 3.0)
   - Dam by Win Ningsih from <a href="https://thenounproject.com/browse/icons/term/dam/" target="_blank" title="Dam Icons">Noun Project</a> (CC BY 3.0)
   - Empire State Building by Bernd Lakenbrink from <a href="https://thenounproject.com/browse/icons/term/empire-state-building/" target="_blank" title="Empire State Building Icons">Noun Project</a> (CC BY 3.0)
